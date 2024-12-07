@@ -8,7 +8,8 @@
         <div class="row">
             <div class="col-12 text-center">
                 <hr>
-                <p>Copyright by Group 5. All rights reserved.</p>
+                <p>© 2024 Group 5. This project is protected under copyright laws. All rights reserved.</p>
+                
             </div>
         </div>
 </footer>
