@@ -1,5 +1,4 @@
 <?php require_once 'views/layouts/header.php'; ?>
-
 <div class="container mt-5">
     <h2>Sửa tin tức</h2>
     <form method="POST" action="index.php?controller=admin&action=updateNews&id=<?= $news['id'] ?>">

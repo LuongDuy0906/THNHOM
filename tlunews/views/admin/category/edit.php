@@ -1,5 +1,4 @@
 <?php require_once 'views/layouts/header.php'; ?>
-
 <div class="container mt-5">
     <h2>Sửa danh mục</h2>
     <form method="POST" action="index.php?controller=category&action=edit&id=<?= $category['id'] ?>">

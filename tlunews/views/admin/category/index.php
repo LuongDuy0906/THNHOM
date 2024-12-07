@@ -1,5 +1,4 @@
 <?php require_once 'views/layouts/header.php'; ?>
-
 <div class="container mt-5">
     <h2>Danh sách danh mục</h2>
     <a href="index.php?controller=category&action=add" class="btn btn-primary mb-3">Thêm danh mục mới</a>
