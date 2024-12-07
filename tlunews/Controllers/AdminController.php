@@ -85,7 +85,7 @@ class AdminController {
         if (News::delete($id)) {
             echo "<script>alert('Xóa tin tức thành công');</script>";
             header('Location: index.php?controller=admin&action=dashboard');
-            exit;
+            
         }
     }
 }
